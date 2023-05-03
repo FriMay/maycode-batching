@@ -1,0 +1,4 @@
+rootProject.name = 'batching'
+
+include 'maycode-shop-api'
+include 'maycode-shop-with-hystrix-api'
